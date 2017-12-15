@@ -1,0 +1,7 @@
+C:\Users\mrainsford\Documents\GitHub\ColiteWork\DailyServerApplication\bin\Debug\DailyServerApplication.exe.config
+C:\Users\mrainsford\Documents\GitHub\ColiteWork\DailyServerApplication\bin\Debug\DailyServerApplication.exe
+C:\Users\mrainsford\Documents\GitHub\ColiteWork\DailyServerApplication\bin\Debug\DailyServerApplication.pdb
+C:\Users\mrainsford\Documents\GitHub\ColiteWork\DailyServerApplication\obj\Debug\DailyServerApplication.csprojResolveAssemblyReference.cache
+C:\Users\mrainsford\Documents\GitHub\ColiteWork\DailyServerApplication\obj\Debug\DailyServerApplication.csproj.CoreCompileInputs.cache
+C:\Users\mrainsford\Documents\GitHub\ColiteWork\DailyServerApplication\obj\Debug\DailyServerApplication.exe
+C:\Users\mrainsford\Documents\GitHub\ColiteWork\DailyServerApplication\obj\Debug\DailyServerApplication.pdb

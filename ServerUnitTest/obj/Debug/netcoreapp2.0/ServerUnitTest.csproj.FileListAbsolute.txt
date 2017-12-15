@@ -1,0 +1,17 @@
+C:\Users\mrainsford\Documents\GitHub\ColiteWork\UnitTestProject1\obj\Debug\netcoreapp2.0\ServerUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\mrainsford\Documents\GitHub\ColiteWork\UnitTestProject1\obj\Debug\netcoreapp2.0\ServerUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\mrainsford\Documents\GitHub\ColiteWork\UnitTestProject1\obj\Debug\netcoreapp2.0\ServerUnitTest.AssemblyInfoInputs.cache
+C:\Users\mrainsford\Documents\GitHub\ColiteWork\UnitTestProject1\obj\Debug\netcoreapp2.0\ServerUnitTest.AssemblyInfo.cs
+C:\Users\mrainsford\Documents\GitHub\ColiteWork\UnitTestProject1\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mrainsford\Documents\GitHub\ColiteWork\UnitTestProject1\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mrainsford\Documents\GitHub\ColiteWork\UnitTestProject1\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mrainsford\Documents\GitHub\ColiteWork\UnitTestProject1\bin\Debug\netcoreapp2.0\ServerUnitTest.deps.json
+C:\Users\mrainsford\Documents\GitHub\ColiteWork\UnitTestProject1\bin\Debug\netcoreapp2.0\ServerUnitTest.runtimeconfig.json
+C:\Users\mrainsford\Documents\GitHub\ColiteWork\UnitTestProject1\bin\Debug\netcoreapp2.0\ServerUnitTest.runtimeconfig.dev.json
+C:\Users\mrainsford\Documents\GitHub\ColiteWork\UnitTestProject1\bin\Debug\netcoreapp2.0\ServerUnitTest.dll
+C:\Users\mrainsford\Documents\GitHub\ColiteWork\UnitTestProject1\bin\Debug\netcoreapp2.0\ServerUnitTest.pdb
+C:\Users\mrainsford\Documents\GitHub\ColiteWork\UnitTestProject1\bin\Debug\netcoreapp2.0\DailyServerApplication.exe
+C:\Users\mrainsford\Documents\GitHub\ColiteWork\UnitTestProject1\bin\Debug\netcoreapp2.0\DailyServerApplication.pdb
+C:\Users\mrainsford\Documents\GitHub\ColiteWork\UnitTestProject1\bin\Debug\netcoreapp2.0\DailyServerApplication.exe.config
+C:\Users\mrainsford\Documents\GitHub\ColiteWork\UnitTestProject1\obj\Debug\netcoreapp2.0\ServerUnitTest.dll
+C:\Users\mrainsford\Documents\GitHub\ColiteWork\UnitTestProject1\obj\Debug\netcoreapp2.0\ServerUnitTest.pdb

@@ -1,4 +1,11 @@
-﻿using System;
+﻿/* Colite International
+ * Author: Mitchell Rainsford
+ * Created: 12/15/2017
+ * Updated: 
+ */
+
+using DailyServerApplication.ProgramManagement;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,6 +20,9 @@ namespace DailyServerApplication
     {
         static void Main(string[] args)
         {
+
+            ServerManager.GetInstance().StartServer();
+
         }
     }
 }
